@@ -32,3 +32,7 @@ enter the test's name, next step
 
 - See [appium Java JUnit Web Troubleshooting on official Document](https://docs.aws.amazon.com/devicefarm/latest/developerguide/troubleshooting-appium-web-java-junit-tests.html)
 
+### References
+
+- https://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-web-app-appium-java-junit.html
+- https://dev.classmethod.jp/cloud/aws/device-farm-web-app/
